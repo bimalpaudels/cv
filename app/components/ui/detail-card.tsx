@@ -8,7 +8,7 @@ export default function DetailCard() {
         <p className="text-xl">2017 - 2020</p>
       </div>
       <div>
-        <p className="text-l">Bachelor's in Computing</p>
+        <p className="text-l">Bachelors in Computing</p>
         <p className="text-sm">
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.

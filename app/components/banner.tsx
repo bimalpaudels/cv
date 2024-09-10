@@ -8,7 +8,7 @@ export default function Banner() {
   useEffect(() => {
     setIsVisible(true);
     console.log("Inside Effect", isVisible);
-  }, []);
+  }, [isVisible]);
   return (
     <div className={`w-3/4 h-screen m-auto content-center -mt-16 `}>
       <div
